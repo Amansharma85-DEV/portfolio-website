@@ -1,4 +1,4 @@
-import { useMemo } from 'react';
+import React, { useMemo } from 'react';
 import { motion } from 'framer-motion';
 import { CheckCircle2, Clock, Flame, TrendingUp, AlertTriangle, Calendar } from 'lucide-react';
 import { Task } from '../../types';
