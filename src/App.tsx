@@ -3,7 +3,7 @@ import { AuthProvider, useAuth } from './contexts/AuthContext';
 import { ThemeProvider } from './contexts/ThemeContext';
 import AuthPage from './components/auth/AuthPage';
 import Sidebar from './components/layout/Sidebar';
-import Dashboard from './components/dashboard/Dashboard';
+import Dashboard from './components/dashboard/dashboard';
 import KanbanBoard from './components/tasks/KanbanBoard';
 import PomodoroTimer from './components/pomodoro/PomodoroTimer';
 import Analytics from './components/analytics/Analytics';
